@@ -3,7 +3,7 @@
 ## Setup Environment
 ```bash
 git clone https://github.com/vittoaa/Tugas-Dicoding.git
-cd Revisi-Tugas-Bangkit
+cd Tugas-Dicoding
 cd Dashboard
 ```
 ## Install Packages
@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ```
 ## Run Streamlit App
 ```bash
-streamlit run Dashboard/dashboard.py
+streamlit run Dashboard/Dashboard.py
 ```
 
 
